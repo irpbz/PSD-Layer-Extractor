@@ -35,7 +35,7 @@
 git clone https://github.com/irpbz/psd-layer-extractor.git
 cd psd-layer-extractor
 pip install -r requirements.txt
-python main.py
+python psd_extractor.py
 ```
 
 <div align="right" dir="rtl">
