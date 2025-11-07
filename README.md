@@ -13,7 +13,7 @@
 
 </div>
 
-## 🌟 Why This Tool is the Best in 2025
+## 🌟 Feature Comparison
 
 | Feature                  | PSD Layer Extractor | Photoshop Export | Aspose PSD Extractor | ImageMagick | psd-tools CLI |
 |--------------------------|--------------------|------------------|----------------------|-------------|---------------|
@@ -55,7 +55,7 @@ python main.py
 
 </div>
 
-## 🌟 چرا بهترین ابزار ۱۴۰۴ است؟
+## 🌟 مقایسه ویژگی‌ها
 
 | ویژگی                    | PSD Layer Extractor    | فتوشاپ          | Aspose          | ImageMagick | psd-tools |
 |--------------------------|-----------------------|------------------|-----------------|-------------|-----------|
