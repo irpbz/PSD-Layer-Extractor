@@ -2,6 +2,8 @@
 
 # PSD Layer Extractor
 
+<img src="https://github.com/irpbz/PSD-Layer-Extractor/blob/main/banner.jpg" alt="banner">
+
 [![Version](https://img.shields.io/badge/version-2.0-brightgreen.svg)](https://github.com/irpbz/psd-layer-extractor)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/irpbz/psd-layer-extractor/total?color=orange)](https://github.com/irpbz/psd-layer-extractor/releases)
